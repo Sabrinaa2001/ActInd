@@ -1,16 +1,3 @@
-# my_first_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta versión personalizada de la aplicación de lanzamiento de dados del profesor Rafael inspirada en su diseño original y decidí darle un giro. En mi versión, en lugar de  rodar los dados para tomar decisiones aleatorias descubres tu suerte diaria.
+He realizado algunos cambios técnicos para lograr este nuevo concepto. Principalmente, he ajustado las imágenes y los mensajes de texto para reflejar la idea de "suerte diaria". Esto implicó reemplazar los recursos visuales originales con elementos nuevos en la carpeta de assets, así como ajustar la lógica de generación de mensajes de texto en el código.
+Además, decidí crear un repositorio individual para mi versión de la aplicación. Esto me permite gestionar y mantener mi proyecto de manera independiente, lo cual es genial para realizar futuras mejoras y actualizaciones.
